@@ -2,7 +2,7 @@
 #include <FirebaseArduino.h>
 
  
-#define FIREBASE_HOST "test-14622-default-rtdb.firebaseio.com" 
+#define FIREBASE_HOST "aquaculture-3b983-default-rtdb.firebaseio.com" 
 #define WIFI_SSID "T"             // Change the name of your WIFI
 #define WIFI_PASSWORD "Room910@"  // Change the password of your WIFI
     
