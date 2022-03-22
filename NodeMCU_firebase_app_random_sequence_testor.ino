@@ -1,3 +1,8 @@
+
+// email id: aquaculture.firebase.iith@gmail.com
+// password: ShivGovindSingh
+
+
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
