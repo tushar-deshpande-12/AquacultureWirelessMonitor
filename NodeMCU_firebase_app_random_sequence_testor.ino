@@ -1,13 +1,12 @@
 
 // email id: aquaculture.firebase.iith@gmail.com
 // password: ShivGovindSingh
-// website:  https://aquaculture-3b983-default-rtdb.firebaseio.com/
-
+// website:  https://console.firebase.google.com/u/2/project/aquaculture2-afe21/database/aquaculture2-afe21-default-rtdb/data
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
  
-#define FIREBASE_HOST "aquaculture-3b983-default-rtdb.firebaseio.com" 
+#define FIREBASE_HOST "aquaculture2-afe21-default-rtdb.firebaseio.com" 
 #define WIFI_SSID "T"             // Change the name of your WIFI
 #define WIFI_PASSWORD "Room910@"  // Change the password of your WIFI
     
